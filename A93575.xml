@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to the churches of the Anabaptists so called. Written by a member of the church, and sent abroad in pursuance of a printed paper from Tiverton, directed to all the churches of Jesus Christ.</title>
+            <author>Salthouse, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93575</idno>
+            <idno type="STC">Wing S472</idno>
+            <idno type="STC">ESTC R183213</idno>
+            <idno type="EEBO-CITATION">45789396</idno>
+            <idno type="OCLC">ocm 45789396</idno>
+            <idno type="VID">172707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172707)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to the churches of the Anabaptists so called. Written by a member of the church, and sent abroad in pursuance of a printed paper from Tiverton, directed to all the churches of Jesus Christ.</title>
+                  <author>Salthouse, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: The third day of the tenth month, 1657. Thomas Salthouse.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172707:1"/>
+            <pb n="1" facs="tcp:172707:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO THE CHURCHES OF THE ANABAPTISTS SO CALLED. <hi>Written by a Member of the CHVRCH, and ſent abroad in pur<g ref="char:EOLhyphen"/>ſuance of a printed paper from TIVERTON, directed to all the CHVRCHES of</hi> JESUS CHRIST.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am conſtrained with compaſſion to the opproſſed ſeed in you, which groans to be delivered from the bon<g ref="char:EOLhyphen"/>dage of corruption into the liberty of the ſons of God, and likewiſe injoyned as a member of the Church of Chriſt, in bowels of love and tenderneſs, to write un<g ref="char:EOLhyphen"/>to you, which I hope will be profitable to ſuch as are earneſtly coveting after the beſt things, though for the preſent many of you are ſcattered upon the barren mountains as ſheep without a Shep<g ref="char:EOLhyphen"/>herd, and wandering in the wilderneſs in a darke and ſolitary way; <hi>He that hath an care to hear, let him hear what the Spirit ſaith unto the Churches;</hi> and to the Paſtors and Teachers of your Churches write I theſe things, in the name and fear of the Lord, before whom your works have not been found perfect; for you have had a name to live,
+<pb n="2" facs="tcp:172707:2"/>while death hath reigned over many of you; the day is far ſpent, and the ſhadows of the evening are ſtretched forth, and the night cometh wherein no man can work; therefore repent, and while you have the light, believe in the light, and bring all your deeds to the light, to be proved and tryed, that they may be wrought in God; and neglect not the great ſalvation which now is begun to be ſpoken of in theſe laſt dayes, wherein iniquity hath abounded, and the man of ſin hath been exalted, and the love of many hath waxen cold, who in words profeſſe they know God, and in works deny him; the Spirit of the Lord ſtrives with you as it did with the children of diſobedience in the dayes of <hi>Noah;</hi> and the baptiſm that now ſaves us is not onely the putting away of the filth of the fleſh, (and carnal waſhings) but the anſwer of a good conſcience towards God, by the reſurrection of Jeſus Chriſt, who is come a Light into the world, and by the brightneſſe of his riſing (in the hearts of his people) doth he reveal the man of ſin, and the myſterie of iniquity, with the abomination that was ſpoken of by the Prophet, which hath been exalted among you, and yet ſtands where it ought not: And now the Law is changed, and the Prieſthood changed, and the car<g ref="char:EOLhyphen"/>nal Ordinances are to ceaſe, and the Covenant, which made not the comers thereunto perfect; for the weakneſſe and unprofitableneſſe of it is done away, and the Hand-writing of Ordinances blotted out, and Chriſt Jeſus the Mediator of the new Covenant witneſſed, who is the Head of the Church, the everlaſting Teacher of his people, the High-Prieſt and Apoſtle of our profeſſion, the chief Shepherd and Biſhop of our ſouls, and they that are with him, are called, and choſen, and faith<g ref="char:EOLhyphen"/>ful, and circumciſed with the circumciſion made without hands, by the putting off the body of the ſinnes of the fleſh, buryed with him in bap<g ref="char:EOLhyphen"/>tiſm, and quickned together with him by the faith of the opperation of that eternal Spirit that raiſed up Jeſus from the dead: And they onely are Members of his Church that are thus made conformable to him in his death, and quickned together with him, and raiſed up by the power of his reſurrection, and ſuch cannot be ſubject to the worlds worſhips, cuſtoms and faſhions, nor to its Ordinances, as thoſe are who lives in the world. Therefore touch not, taſte not, handle not thoſe things which periſheth with the uſing, and doth not make the comers thereunto per<g ref="char:EOLhyphen"/>fect: Seeke not the living among the dead and carnal Ordinances, and bodily-exerciſes, which are altogether unprofitable, and according to the tradition received from men, for the kingdom of God cometh not with obſervations. Ariſe, ariſe, for this is not your reſt becauſe it is po<g ref="char:EOLhyphen"/>luted: God who commanded light to ſhine out of darkneſſe, hath ſhi<g ref="char:EOLhyphen"/>ned in our hearts to give us the knowledge of his glorious Goſpel in the face of Jeſus Chriſt, whom he hath ſent forth in theſe laſt dayes for a light unto the Gentiles, a Leader of his people, and for ſalvation to all the ends of the earth; who comes to be glorified in his Saints, and who <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be worſhipped in the ſpirit, and in the truth, and they that do not
+<pb n="3" facs="tcp:172707:2"/>worſhip him in the ſpirit and in the truth, they worſhip they know not what, even the unknown. God ignorantly, and ſuch are not the Church of Chriſt, what ever they profeſſe.</p>
+            <p>Lately I ſaw printed Epiſtle, ſigned by <hi>Thomas Collier</hi> and others, wherein your condition in ſome meaſure was expreſſed and confeſſed; and truly, mine eye affects my heart at the conſideration thereof; I can<g ref="char:EOLhyphen"/>not but bewaile thoſe great abominations by which the Lord God Al<g ref="char:EOLhyphen"/>mighry, of power and purity, is provoked to jealouſie, and even to give you up to ſtrong deluſions, to obſerve lying vanities, becauſe you like not to retain God in your knowledge, ſince that which may be known of him is manifeſted in you, as hath (both in word and writing) been freely declared to many of you; and yet this ſeat of the Image of jea<g ref="char:EOLhyphen"/>louſie remains among you, and the accurſed thing which makes you fall before your enemies, and renders you uncomely in the ſight of men, as you have confeſt.</p>
+            <p>
+               <hi>Now friends I muſt deal plainly with you, that a ſeparation may be made be<g ref="char:EOLhyphen"/>tween the precious and the vile, the holy and the prophane, that they who are of the Synagogue of Satan, may be delivered unto Satan; for as their blaſphemy was known that ſaid they were Iewes and were not, ſo their preſumption is now ſeen that calls themſelves the Church of Chriſt, and are not: Being moved of the Lord, I cannot but give in my Teſtimony as a Mite into his everlaſting treaſury, by declaring plainly unto you, That you are not in reality and truth what you profeſſe to be, and as the Direction or Preface to that Epiſtle beſpeak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you; for the Church is as a Lilly among Thorns, (in relation to your condition therein expreſt) or as an Apple-Tree among the Trees of the Wood, and is builded upon the foundation of many Generations, being living Stones, elect, and precious; and with the love of Chriſt, who is the Head of his Church, his members are conſtrained to follow him, as the Captain of their ſalvation, in honor, and dishonor; in good report, and evil report; liberty, and bonds, perſecutions, and tribulations; and becauſe of the ſavour of his good Oyntments, the Vir<g ref="char:EOLhyphen"/>gins, his followers, loves him dearly, yea above all the worlds glory and friend<g ref="char:EOLhyphen"/>ship, and the love of the world hath not, nor never can be able, (like a Can<g ref="char:EOLhyphen"/>ker) to eat out their affections to the Lord Ieſus, as you have confeſſed in your Epiſtle, concerning them to whom it was ſent, with whom you ſay, it is on your hearts to live and dye.</hi>
+            </p>
+            <p>
+               <hi>You ſay you have been arraigning the abominations of Zion before the Bar of the Moſt high: But upon ſearch it is found to be your own, and your Chur<g ref="char:EOLhyphen"/>ches abominations, for you ſay iniquity hath been apparently written upon their fore-heads; but the daughters of Zion are redeemed with judgement, and her Converts with righteouſneſſe, and they that ſtand with the Lamb upon Mount Zion, hath the Fathers Name written in their fore-heads, and they are redeemed from the earth, and in their mouths no guile is found, neither are they defiled with women, nor with the pollutions of the world; but have washed their Garments, and made them white in the blood of the Lamb, having come through great tribulations, and through the washing of regenerations. Alſo you ſay
+<pb n="4" facs="tcp:172707:3"/>you have made confeſsion of theſe raigning abominations in your ſelves, and in the Churches, that light ſpirit, that wretched worldly ſpirit, that coldneſſe and deadneſſe, that Laodicean ſpirit that is fallen in upon you.</hi>
+            </p>
+            <p>
+               <hi>Oh friends! charge not theſe iniquities upon Zion, nor upon the Members of the Church of Chriſt, who are one Spirit with him; nor put not theſe things afar off, but repent, and humble your ſelves before the Lord, and lay not theſe things to the Saints charge: For Zions ſake, and for the Churches ſake I can<g ref="char:EOLhyphen"/>not be ſilent, for they are not guilty of theſe things charged upon them; its your own condition, by your own confeſsion; and therefore I counſel you to buy Gold tryed in the fire, that you may be rich; &amp; white rayment, that you may be clothed; and Eye-ſalve, that you may come to ſee the things which concerns your eternal peace, which hath been long hid from your eyes whileſt you have been crying up your ſelves as the Church of Chriſt, and thought you were rich, and ſaid you ſaw, when indeed you were poor and miſerable, blind and naked; And theſe things are juſtly fallen upon you, ſince you ſet your ſelves to oppoſe and contend againſt the light of Christ in the conſcience, which makes manifeſt and reproves all things which is contrary to the will and mind of God, where it is believed in and loved. Truly your wound is almoſt incurable, its your iniquities that makes the ſeparation between you and your God, and your ſins that with-holds good things from you, as you are in part ſenſible, and have herein confeſt, that the worlds glory hath bewitched you, and alienated you from the Lord. And further, That this iniquity hath been apparently written upon your fore-heads, (to wit) perſonal-iniquity, Congregational-iniquity, Family-iniquity, Cloſ<g ref="char:EOLhyphen"/>ſet-iniquity, &amp;c. Oh what bruiſes and putrifying ſores is found among you! What a shattered building is this! no ſoundneſſe, no zeal, without hope, with<g ref="char:EOLhyphen"/>out God in the world, affections to Chriſt eaten up, with the love thereof, rebel<g ref="char:EOLhyphen"/>ling againſt the light, cruel to ſervants and children, exacting all their labours; formal in holy dutyes, having the shadow, but not the ſubſtance; the form of god<g ref="char:EOLhyphen"/>lineſſe, but not the power thereof; the ſign, but not the ſeal of the Covenant. Ariſe ye that ſit in duſt, awake ye that are aſleep in this condition, leaſt your Candle be put out, and the day of your viſitation paſſe over: Light hath long shined in a dark place, and the darkneſſe comprehended it not: And the blind Watchmen have ſaid, Lo here is Christ, and lo there is Christ, &amp; have deceived many that have been inquiring after the good old way, and have told them that the light within is natural, and that the Scriptures was the Word of God: But I ſay unto you, Go not forth, believe them not, for they that made known the power and coming of the Lord Ieſus, who were eye-witneſſes of his Glory, and of his Majesty, were ſent to turn people from the darkneſſe to the light, and from under Satans power, unto God, and declared that which they had heard, and ſeen, taſted of, and handled of the Word of life, which was nigh them, even in their hearts, and in their mouths, and this is the Word of Faith which we preach: And this I declare unto you by the ſame ſpirit, That we have a more ſure Word of Propheſie then that which was ſeen in the Mount, unto which ye do well to take heed, as unto a light that shines in a darke place, until the day dawn, and the day-ſtar ariſe in your hearts, that you may come to ſee the ſalva<g ref="char:EOLhyphen"/>tion of God.</hi>
+            </p>
+            <pb n="5" facs="tcp:172707:3"/>
+            <p>Likewiſe they complain of your neglect of the poor Saints, which is indeed an evil, for he that hath this worlds good, and ſeeth his brother have need, and ſhuts up his compaſſion againſt him, how dwelleth the love of God in that man? He cannot be by us owned as a Member of the <hi>Church</hi> of <hi>Christ:</hi> Alſo of your neglect of the Miniſters, and remiſ<g ref="char:EOLhyphen"/>neſſe in Meetings, which may be excuſed, for the Miniſters of Chriſt doth not murmure nor cry out of wants, nor complain in the ſtreets, though they be ſent forth many times as ſheep among wolves, and perſe<g ref="char:EOLhyphen"/>cuted <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om city to city, and ſome of them caſt into priſon, as it is at this day witneſſed, neither need they murmure or complain, for the Lord provides food and raiment for them, and they are therewith content, and they have no Letters of recommendation, but doth in the ſight of God commend themſelves to that of God in every mans conſcience, un<g ref="char:EOLhyphen"/>to which they are made manifeſt. And as for your remiſneſſe in Meetings, I cannot much blame you, in regard you have profited ſo little by their Miniſtry; for had they ſtood in Gods counſel, your Meetings would have been for the better, and not for the worſe; and that deſire which hath ap<g ref="char:EOLhyphen"/>peared in many of you after the Lord, would have been ſtrengthned, and your thirſty ſouls ſatisfied and refreſhed, for where ever two or three are gathered together in the Name of the Lord, his preſence is wit<g ref="char:EOLhyphen"/>neſſed among them: and they that wait upon the Lord, doth daylie re<g ref="char:EOLhyphen"/>new their ſtrength, and as their eyes comes to be opened that have hea<g ref="char:EOLhyphen"/>ped up <hi>Teachers</hi> to themſelves in the time of ignorance, they cannot but withdraw from them, though they ſuffer affliction with the people of God, who are all the day long accounted as ſheep for the ſlaughter, or as men not fit to live upon the earth.</p>
+            <p>The Authors of the Epiſtle ſent to you, hath left things therein con<g ref="char:EOLhyphen"/>tained, to be farther opened by thoſe whom the Lord hath entruſted with his Oracles: And I am enjoyned, and it lyes upon me as a duty (being a Member of the <hi>Church of Christ</hi>) to deal plainly with you; for all you that are found guilty of the abominable iniquities, <hi>Laodicean</hi> ſpi<g ref="char:EOLhyphen"/>rit, pride and cruelty, deadneſs, and earthly-mindedneſs, <hi>&amp;c.</hi> are by the Elders of our <hi>Church</hi> (in the behalf of all the Members thereof) utter<g ref="char:EOLhyphen"/>ly denyed to be of us.</p>
+            <p>Nei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her can you be owned by us, nor received into fellowſhip with us, till you cleanſe your hands, and purifie your hearts, till you waſh you, and make you clean from all the pollutions of Idols, and until you re<g ref="char:EOLhyphen"/>pent and be baptized, <hi>for its not every one that ſaith, The Temple of the Lord, The Temple of the Lord, that are the children of Abraham: Neither is it circumciſion, nor uncircumciſion that availeth any thing, but a new crea<g ref="char:EOLhyphen"/>ture, and faith which works by love, and whoſoever believeth, and is baptized, shall be ſaved:</hi> But all that are dipt once or twice in the water, are not baptized with the baptiſme of Chriſt, <hi>to wit,</hi> the circumciſion of the heart, which is the Seal of the righteouſneſs of faith, He that can re<g ref="char:EOLhyphen"/>ceive it, let him, and whoſoever cannot receive the things of the ſpirit of
+<pb n="6" facs="tcp:172707:4"/>God, are none of the <hi>Church of Chriſt,</hi> neither may they be permitted to break bread with us before they be baptized with the baptiſm a of Chriſt, for ſuch doth not diſcern the Lords body before they own and believe in the light which was in the beginning with God, by which <hi>Enoch</hi> ſaw him who is inviſible, and by which <hi>Abraham</hi> ſaw the Sons day, and rejoiced; and by which we behold his glory, as the glory of the onely begotten of the Father, who is full of grace and truth: And this is the Meſſage that we have to declare, and which I here declare unto you, <hi>That God is light, and in him is no darkneſſe at all; and if you return to the light, and believe in the light, and love the light, and bring all your deeds to the light, and walk in obedience, then have you fellowship with us, and we can own you, and receive you into the Church without any Letters of Recommen<g ref="char:EOLhyphen"/>dation from men, and have union with you in the ſpirit, and ſo you may eat with us in our Fathers Houſe of the Bread of Life which came down from Hea<g ref="char:EOLhyphen"/>ven: For the Cup of Bleſsing which we bleſſe, is the Communion of the blood of Chriſt; and the Bread which we breake is the Communion of the Body of Chriſt; for we being many, are one Bread and one Body, and they that are not baptized by one ſpirit into one body, are not of the Church of Chriſt, neither can we own them as Members thereof.</hi>
+            </p>
+            <p>This may let you know, that by diligent ſearch we have found you out to be one with the world in many things, as alſo is in your Epiſtle ex<g ref="char:EOLhyphen"/>preſſed, wherein you have brought forth the dry bones of your Congre<g ref="char:EOLhyphen"/>gations, and even ſpread them before the Sun in the open valley, that he that runs may read what birth is brought forth, and what image is born: Your Teachers complains of formality in holy duties, and yet confeſſes themſelvs to be guilty of the ſame thing: Alas! How can it be otherwiſe with you ſo long as you own ſuch for your Teachers who hath the form of godlineſſe, and not the power of it? Is not the Scripture here in ful filled, <hi>They ran, I never ſent them, ſaith the Lord, therefore they shall not profit this people at all: The Leaders of my people cauſe them to erre, and they that are led of them are deſtroyed for want of knowledg; the Paſtors are become brutish, and have not ſought the Lord, therefore they shall not proſper, and all their flock shall be ſcattered</hi>
+            </p>
+            <p>Surely the Husbandmen begins to be aſhamed of their work, and the Vine-deeſſers begins to weep and howle, as if the Seed were rotten un<g ref="char:EOLhyphen"/>under the Clods, and little fruit is brought forth to perfection, wit<g ref="char:EOLhyphen"/>neſſe their complaint in the forementioned Epiſtle, wherein they confeſs they have laboured in vaine, and that which hath been brought forth hath been to ſo little purpoſe: Let not theſe things be declared in <hi>Gath,</hi> nor publiſhed in the Streets of <hi>Askelon,</hi> leſt the daughters of the <hi>Phili<g ref="char:EOLhyphen"/>ſtines</hi> ſhould pejoice over you, for the <hi>Church</hi> of <hi>Chriſt</hi> doth deny ſuch a Teſtimony, and ſuch Teachers.</p>
+            <p>Therefore all you that are ſimple-hearted, and hungers and thirſts af<g ref="char:EOLhyphen"/>ter righteouſneſſe, come out from amongſt them, and be ye ſeparate, leſt you periſh in their gain-ſayings; ſpend not your money for that which
+<pb n="7" facs="tcp:172707:4"/>is no bread, and your labour for that which doth not profit, but come to the waters freely, and drink without money and without price; incline your ears, and come hearken diligently, and hear, that your ſouls may live, that you may eat that which is good, and be abundantly ſatisfied therewith; for though you played the Harlot, and deſtroyed your ſelves with many Lovers, and have been as the degenerate plant of a ſtrange Vine to God, yet there is mercy with him that he may be feared; and he ſpreadeth forth his hands all the day long, ſaying, <hi>Yet return unto me, and I will heal your back ſlidings, and receive you, and love you freely, and you shall be my Sons and Daughters, ſaith the Lord, who is faithful and juſt to forgive, and to blot out all your iniquities, tranſgreſsions and ſins, and to clenſe you from all filthineſſe both of the flesh and ſpirit.</hi>
+            </p>
+            <p>And now friends in your Faſts and ſolemn Aſſemblies, in order (as you ſay) to the purging out of ſin and ſinners, beware of ſmiting with the fiſt of wickedneſs, and take heed of judging any thing before the time; for the Phariſees faſted often, and the unbelieving Jews agreed to<g ref="char:EOLhyphen"/>gether to caſt ſuch out of their Synagogues as confeſſed Chriſt, and they caſt him out whoſe eys Chriſt had opened.</p>
+            <p>Now there is need of found diſcerning in this great work of binding and looſing, receiving in, and caſting out; for the Lord is working a wonderful work, and creating a new thing in the earth, and opening the eyes of many who comes to ſee the end of the worlds Ordinances and will-worſhips, (ſo highly eſteemed among men) and ſuch you need not caſt out, nor bring under dealing, but leave them to their freedom, to worſhip God in the ſpirit and in the truth; but let ſinne and ſinners be plainly dealt with, and declared againſt, till they confeſſe and forſake; and let all who are in the tranſgreſſion keep ſilence in the <hi>Church,</hi> for we permit none to ſpeak but as they are moved by the Holy Ghoſt, and take heed of deſpiſing propheſie, or quenching the ſpirit either in ſons or daughters, ſervants or handmaids, for the ſpirits of the Prophets are ſubject to the Prophets, and they may all ſpeak one by one, and if any thing be revealed to another that ſits by, let the firſt hold his peace, that in the Church all things may be done decently and in order. And let this Epiſtle be read among you with the ſpirit, and with the underſtand<g ref="char:EOLhyphen"/>ing, and receive it with meekneſs, from a Member of the Church of Chriſt, a Companion to all that loves truth in the inward parts, who ſuffers perſecution for the Teſtimony of Jeſus, and the Word of God,</p>
+            <closer>
+               <dateline>
+                  <date>The third day of the tenth Month, 1657.</date>
+               </dateline>
+               <signed>THOMAS SALTHOVSE.</signed>
+            </closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
